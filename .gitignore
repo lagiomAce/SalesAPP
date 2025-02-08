@@ -1,0 +1,17 @@
+# Ignorar carpetas de Visual Studio y otros archivos generados
+.vs/
+.vscode/
+bin/
+obj/
+
+# Ignorar archivos de dependencias
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignorar archivos de configuraciones personales de IDEs
+.idea/
+.history/
+
+# Ignorar archivos de configuración específicos
+*.env
