@@ -21,7 +21,7 @@
     border: none;
     background: none;
     box-shadow: none;
-    cursor: pointer; /* Mantiene el puntero de clic */
+    cursor: pointer; 
     font-weight: bold;
   }
   
